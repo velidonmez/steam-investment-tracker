@@ -1,3 +1,5 @@
+# WIP
+
 # steam-investment-tracker
 
 ## Build Setup
